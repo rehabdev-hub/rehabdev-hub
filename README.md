@@ -1,7 +1,7 @@
 <img width="7917" height="3000" alt="image" src="https://github.com/user-attachments/assets/701bd4db-873e-4add-908d-00e7f1e5f2fe" />
 <h1 align="center">Hi, I'm Muhammad Rehan</h1>
 <h3 align="center">Front-End Developer | React • Next.js • Shopify Specialist | SEO & Link Building | Converting Code to Conversions</h3>
-<img align="right" alt="coding" width="400" src="https://assets-v2.lottiefiles.com/a/7bcc07ec-1168-11ee-b4dd-d76ae6b5f95a/8PP5vBfxGm.gif" />
+
 
 ---
 
@@ -54,14 +54,14 @@
 
 ---
 
-##  GitHub Stats
+##  Converting Code to Conversions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rehandev&show_icons=true&theme=tokyonight" />
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehandev&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </p>
 
 ---
