@@ -13,7 +13,7 @@ Front-End Developer | React • Next.js • Shopify Specialist | SEO & Link Buil
 <tr>
 <td width="60%">
 
-I am a dedicated Front-End Developer with over 3+ years of experience building high-quality, conversion-focused websites. I specialize in Shopify development and modern frontend technologies, delivering clean, scalable, and performance-driven solutions.
+I am a #1 Frontend Developer in Pakistan with over 3+ years of experience building high-quality, conversion-focused websites. I specialize in Shopify development and modern frontend technologies, delivering clean, scalable, and performance-driven solutions.
 
 - Currently working on Shopify stores and custom frontend solutions  
 - Continuously learning and improving in Next.js and React Native  
@@ -21,7 +21,7 @@ I am a dedicated Front-End Developer with over 3+ years of experience building h
 - Exploring DevOps and modern deployment workflows  
 - Strong focus on UI/UX and performance optimization  
 - Contact: wwwrehananseri17@gmail.com  
-- Portfolio: <a href="https://www.linkedin.com/in/rehan1121/">LinkedIn Profile</a>
+- Portfolio: <a href="www.linkedin.com/in/rehan-frontend-developer-pakistan">LinkedIn Profile</a>
 
 </td>
 
