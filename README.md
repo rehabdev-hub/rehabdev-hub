@@ -13,11 +13,11 @@ Frontend Developer for Founders, Agencies & eCommerce | Websites that turn visit
 <tr>
 <td width="60%">
 
-I'm Muhammad Rehan, a Frontend Developer and Website Strategist in Pakistan with 4+ years of experience. I have built 100+ websites for brands, service-based businesses, and eCommerce stores using my **Trust-First UX Framework**—making sure a site loads fast on average mobile connections, builds immediate credibility, and guides visitors toward one clear action.
+I'm Muhammad Rehan, a Frontend Developer and Website Strategist in Pakistan with 4+ years of experience. I have built 100+ websites for brands, service based businesses, and eCommerce stores using my **Trust First UX Framework** making sure a site loads fast on average mobile connections, builds immediate credibility, and guides visitors toward one clear action.
 
 - **WordPress** for brands and service businesses that need reliable, easy-to-manage websites  
 - **Shopify** for eCommerce stores built to convert browsers into buyers  
-- **React & Next.js** for custom web apps and high-speed platforms  
+- **React & Next.js** for custom web apps and high speed platforms  
 - **Contact:** wwwrehananseri17@gmail.com  
 - **Portfolio & LinkedIn:** <a href="https://www.linkedin.com/in/rehanfrontend/">linkedin.com/in/rehanfrontend</a>
 
@@ -35,9 +35,9 @@ I'm Muhammad Rehan, a Frontend Developer and Website Strategist in Pakistan with
 
 ## Experience
 
-- **Frontend Developer | WordPress & Shopify Specialist** — *Blinix Solutions* (Oct 2024 – Aug 2026)  
+- **Frontend Developer | WordPress & Shopify Specialist** - *Blinix Solutions* (Oct 2024 - Aug 2026)  
   Handled frontend and eCommerce client projects focused on custom WordPress and Shopify builds.
-- **Frontend Developer | WordPress & Custom Web Development** — *Euroitech* (Sep 2022 – Aug 2024)  
+- **Frontend Developer | WordPress & Custom Web Development** - *Euroitech* (Sep 2022 - Aug 2024)  
   Built lightweight, custom WordPress themes from scratch using Gutenberg and ACF.
 
 ---
@@ -66,7 +66,7 @@ I'm Muhammad Rehan, a Frontend Developer and Website Strategist in Pakistan with
 
 <br/><br/>
 
-Building fast, mobile-first interfaces and custom themes with clean, maintainable code.
+Building fast, mobile first interfaces and custom themes with clean, maintainable code.
 
 </td>
 
@@ -101,7 +101,7 @@ Custom Shopify storefronts, theme architecture, and lightweight WordPress builds
 
 <br/><br/>
 
-Turning wireframes and UI/UX concepts into production-ready websites.
+Turning wireframes and UI/UX concepts into production ready websites.
 
 </td>
 </tr>
@@ -116,7 +116,7 @@ Turning wireframes and UI/UX concepts into production-ready websites.
 </p>
 
 <p align="left">
-Before making any design decisions, I look at the business model, the customer journey, and real-world mobile performance. Design comes after that groundwork—so the final site doesn't just look good, it actually brings in leads and sales.
+Before making any design decisions, I look at the business model, the customer journey, and real world mobile performance. Design comes after that groundwork so the final site doesn't just look good, it actually brings in leads and sales.
 </p>
 
 ---
