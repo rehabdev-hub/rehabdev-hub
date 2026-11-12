@@ -2,7 +2,7 @@
 
 <h1 align="center">Muhammad Rehan</h1>
 <h3 align="center">
-Frontend Developer | React • Next.js • Shopify • Wordpress | Building Premium Websites That Turn Visitors into Customers
+Frontend Developer for Founders, Agencies & eCommerce | Websites that turn visitors into clients | WordPress • Shopify • Next.js • React
 </h3>
 
 ---
@@ -13,14 +13,13 @@ Frontend Developer | React • Next.js • Shopify • Wordpress | Building Prem
 <tr>
 <td width="60%">
 
-I am a Frontend Developer in Pakistan with over 4 years of experience building quality, conversion focused websites. I specialize in Shopify or Wordpress development and modern frontend technologies, delivering clean, scalable, and performance driven solutions.
+I'm Muhammad Rehan, a Frontend Developer and Website Strategist in Pakistan with 4+ years of experience. I have built 100+ websites for brands, service-based businesses, and eCommerce stores using my **Trust-First UX Framework**—making sure a site loads fast on average mobile connections, builds immediate credibility, and guides visitors toward one clear action.
 
-- Currently working on Shopify stores and custom frontend solutions  
-- Continuously learning and improving in Next.js and React Native  
-- Open to collaboration on ecommerce and SaaS-based projects    
-- Strong focus on UI/UX and performance optimization  
-- Contact: wwwrehananseri17@gmail.com  
-- Portfolio: <a href="www.linkedin.com/in/rehan-frontend-developer-pakistan">LinkedIn Profile</a>
+- **WordPress** for brands and service businesses that need reliable, easy-to-manage websites  
+- **Shopify** for eCommerce stores built to convert browsers into buyers  
+- **React & Next.js** for custom web apps and high-speed platforms  
+- **Contact:** wwwrehananseri17@gmail.com  
+- **Portfolio & LinkedIn:** <a href="https://www.linkedin.com/in/rehanfrontend/">linkedin.com/in/rehanfrontend</a>
 
 </td>
 
@@ -34,10 +33,19 @@ I am a Frontend Developer in Pakistan with over 4 years of experience building q
 
 ---
 
-##  Connect With Me
+## Experience
+
+- **Frontend Developer | WordPress & Shopify Specialist** — *Blinix Solutions* (Oct 2024 – Aug 2026)  
+  Handled frontend and eCommerce client projects focused on custom WordPress and Shopify builds.
+- **Frontend Developer | WordPress & Custom Web Development** — *Euroitech* (Sep 2022 – Aug 2024)  
+  Built lightweight, custom WordPress themes from scratch using Gutenberg and ACF.
+
+---
+
+## Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/rehan1121" target="_blank">
+  <a href="https://www.linkedin.com/in/rehanfrontend/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://www.instagram.com/devlutionbyrehan" target="_blank">
@@ -54,22 +62,22 @@ I am a Frontend Developer in Pakistan with over 4 years of experience building q
 <td align="center" width="50%">
 
 ### Frontend & Frameworks  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 
 <br/><br/>
 
-Building responsive, scalable, and performance-optimized user interfaces using modern frontend technologies.
+Building fast, mobile-first interfaces and custom themes with clean, maintainable code.
 
 </td>
 
 <td align="center" width="50%">
 
 ### Backend & Database  
-<img src="https://skillicons.dev/icons?i=nodejs,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,firebase" />
 
 <br/><br/>
 
-Developing efficient backend services, handling APIs, and managing structured data for scalable applications.
+Developing backend APIs, server logic, and structured databases for custom web applications.
 
 </td>
 </tr>
@@ -77,23 +85,23 @@ Developing efficient backend services, handling APIs, and managing structured da
 <tr>
 <td align="center" width="50%">
 
-### Design & Tools  
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator" />
+### CMS & eCommerce  
+<img src="https://skillicons.dev/icons?i=wordpress,php" />
 
 <br/><br/>
 
-Designing clean and modern interfaces and transforming UI/UX concepts into production-ready code.
+Custom Shopify storefronts, theme architecture, and lightweight WordPress builds.
 
 </td>
 
 <td align="center" width="50%">
 
-### Additional Tools  
-<img src="https://skillicons.dev/icons?i=react,reactnative,framer" />
+### Design & Workflow  
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,git" />
 
 <br/><br/>
 
-Working with animation libraries, mobile technologies, and modern development workflows.
+Turning wireframes and UI/UX concepts into production-ready websites.
 
 </td>
 </tr>
@@ -101,39 +109,25 @@ Working with animation libraries, mobile technologies, and modern development wo
 
 ---
 
-## Converting Code to Conversions
+## How I Work
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600"/>
 </p>
 
 <p align="left">
-I focus on building websites that not only look visually appealing but also drive engagement, improve user experience, and increase conversions for businesses.
+Before making any design decisions, I look at the business model, the customer journey, and real-world mobile performance. Design comes after that groundwork—so the final site doesn't just look good, it actually brings in leads and sales.
 </p>
 
 ---
 
 ## What I Do
 
-- Shopify store development and customization  
-- Conversion-focused frontend development (Figma to code)  
-- Responsive and high-performance website development  
-- UI/UX-driven interface design  
-- Interactive animations and modern web experiences  
-
----
-
-## Goals
-
-- Expand expertise in full-stack development  
-- Strengthen knowledge in system design and DevOps  
-- Contribute to global SaaS and ecommerce platforms  
-
----
-
-## Fun Fact
-
-I enjoy building fast and visually engaging websites that help businesses grow by combining design, performance, and usability into one seamless experience.
+- Custom Shopify store development and conversion optimization  
+- Lightweight WordPress websites (Gutenberg & ACF)  
+- Custom frontend applications with React and Next.js  
+- Figma-to-code implementation with mobile-first speed  
+- Technical SEO setup and site performance tuning  
 
 ---
 
