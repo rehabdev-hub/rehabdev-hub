@@ -86,11 +86,14 @@ Developing backend APIs, server logic, and structured databases for custom web a
 <td align="center" width="50%">
 
 ### CMS & eCommerce  
-<img src="https://skillicons.dev/icons?i=wordpress,php" />
+<img src="https://skillicons.dev/icons?i=wordpress,webflow,php" />
+<br/>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white" />
 
 <br/><br/>
 
-Custom Shopify storefronts, theme architecture, and lightweight WordPress builds.
+Custom Shopify storefronts, theme architecture, and lightweight WordPress, Webflow, and Squarespace builds.
 
 </td>
 
