@@ -92,7 +92,6 @@ Developing backend APIs, server logic, and structured databases for custom web a
 <img src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white" />
 
 <br/><br/>
-
 Custom Shopify storefronts, theme architecture, and lightweight WordPress, Webflow, and Squarespace builds.
 
 </td>
